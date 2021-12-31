@@ -1,8 +1,13 @@
 [package]
 name = "sleep"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
-
+license = "BSD-Source-Code"
+authors = ["Ethan Raque ethanraque@gmail.com"]
+description = "A simple crate containg only the function 'sleep' which takes 1 input in terms of seconds and pauses the program for that long"
+documentation = "https://github.com/NintendEthan/rust-sleep"
+homepage = "https://github.com/NintendEthan/rust-sleep"
+repository = "https://github.com/NintendEthan/rust-sleep"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
