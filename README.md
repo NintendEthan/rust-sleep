@@ -1,7 +1,7 @@
 # rust-sleep
 # rust-sleep
 to use this crate add the following line to your Cargo.toml under the [dependencies] section:
-sleepy = "1.0.0"
+sleepy = "1.0.1"
 
 then put: "use sleepy::sleep" in your *.rs* file 
 
